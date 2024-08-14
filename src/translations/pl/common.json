@@ -1,0 +1,32 @@
+{
+  "appName": {
+    "full": "PlannerApp",
+    "initials": "PA"
+  },
+  "tabs": {
+    "goals": "Cele",
+    "quotes": "Cytaty",
+    "images": "Obrazki"
+  },
+  "settings": {
+    "title": "Ustawienia",
+    "dark": "Tryb Ciemny",
+    "lang": "Język"
+  },
+  "edit": {
+    "name": "Wprowadź nową nazwę",
+    "description": "Wprowadź nowy opis"
+  },
+  "abr": {
+    "hour": "h",
+    "min": "m"
+  },
+  "common": {
+    "endDate": "Termin docelowy:",
+    "enterDate": "Dotknij by wybrać",
+    "agendaDate": "Dzień w terminarzu:",
+    "duration": "Całkowity czas do ukończenia:",
+    "enterTime": "Dotknij by ustawić",
+    "time": "Czas dnia:"
+  }
+}

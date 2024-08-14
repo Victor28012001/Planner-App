@@ -1,0 +1,32 @@
+{
+  "appName": {
+    "full": "React Native GoalMap",
+    "initials": "RNB"
+  },
+  "tabs": {
+    "goals": "Goals",
+    "quotes": "Quotes",
+    "images": "Images"
+  },
+  "settings": {
+    "title": "Settigns",
+    "dark": "Dark Mode",
+    "lang": "Language"
+  },
+  "edit": {
+    "name": "Enter new name",
+    "description": "Enter new description"
+  },
+  "abr": {
+    "hour": "g",
+    "min": "m"
+  },
+  "picker": {
+    "endDate": "Target date:",
+    "enterDate": "Press to pick",
+    "agendaDate": "Day in the agenda:",
+    "duration": "Total time to complete:",
+    "enterTime": "Press to set",
+    "time": "Time of the day:"
+  }
+}

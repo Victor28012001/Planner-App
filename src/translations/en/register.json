@@ -1,0 +1,7 @@
+{
+  "email": "E-mail address",
+  "user": "Username",
+  "password": "Password",
+  "repeat": "Repeat password",
+  "passwordMismatch": "Passwords not matching"
+}

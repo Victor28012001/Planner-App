@@ -1,0 +1,7 @@
+{
+  "email": "Adres e-mail",
+  "user": "Nazwa użytkownika",
+  "password": "Hasło",
+  "repeat": "Powtórz hasło",
+  "passwordMismatch": "Hasła się nie zgadzają"
+}
